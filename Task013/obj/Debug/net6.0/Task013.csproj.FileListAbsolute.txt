@@ -1,0 +1,15 @@
+E:\DZ_2ZNAKPROG\Task013\bin\Debug\net6.0\Task013.exe
+E:\DZ_2ZNAKPROG\Task013\bin\Debug\net6.0\Task013.deps.json
+E:\DZ_2ZNAKPROG\Task013\bin\Debug\net6.0\Task013.runtimeconfig.json
+E:\DZ_2ZNAKPROG\Task013\bin\Debug\net6.0\Task013.dll
+E:\DZ_2ZNAKPROG\Task013\bin\Debug\net6.0\Task013.pdb
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.csproj.AssemblyReference.cache
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.AssemblyInfoInputs.cache
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.AssemblyInfo.cs
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.csproj.CoreCompileInputs.cache
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.dll
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\refint\Task013.dll
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.pdb
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\Task013.genruntimeconfig.cache
+E:\DZ_2ZNAKPROG\Task013\obj\Debug\net6.0\ref\Task013.dll
